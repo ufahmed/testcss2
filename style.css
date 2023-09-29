@@ -1,0 +1,17 @@
+.button1{
+    color: rgb(14, 220, 148);
+    border-radius: 10px;
+    border-color: rgb(14, 220, 148);
+}
+.button2{
+    border-radius: 10px;
+    background-color: rgb(14, 220, 148); 
+    color: aliceblue;
+    border-color: rgb(14, 220, 148);
+    
+}
+.button3{
+    background-color: rgb(4, 64, 227);
+    color: aliceblue;
+    box-shadow: 10px 5px 5px black;
+}
